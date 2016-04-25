@@ -1,6 +1,6 @@
 {
   "name": "random-minute",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Generate a random minute.",
   "main": "index.js",
   "scripts": {
