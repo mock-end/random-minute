@@ -10,22 +10,22 @@
   
 ## Install
   
-  ```
-  $ npm install --save random-minute 
-  ```
+```
+$ npm install --save random-minute 
+```
   
 ## Usage
   
-  ```js
-  var randomMinute = require('random-minute');
+```js
+var randomMinute = require('random-minute');
   
-  // API
-  // - randomMinute([options]);
+// API
+// - randomMinute([options]);
   
-  // options
-  // - min
-  // - max
-  ```
+// options
+// - min
+// - max
+```
 
 By default, returns a minute from `0` to `59`. Idea is for generating a clock time.
   
@@ -64,6 +64,6 @@ randomMinute({ min: 10, max: 40 });
 
 ## Contributing
   
-  Pull requests and stars are highly welcome.
-  
-  For bugs and feature requests, please [create an issue](https://github.com/mock-end/random-minute/issues/new).
+Pull requests and stars are highly welcome.
+
+For bugs and feature requests, please [create an issue](https://github.com/mock-end/random-minute/issues/new).
