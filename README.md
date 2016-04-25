@@ -30,8 +30,8 @@ var randomMinute = require('random-minute');
 By default, returns a minute from `0` to `59`. Idea is for generating a clock time.
   
 ```js
-  randomMinute();
-  // => 37
+randomMinute();
+// => 37
 ```
 
 Optionally specify min, max, or both to limit the range.
